@@ -1,2 +1,5 @@
 # hello-world
-GitHub Fundamentals (restarting the right way)
+
+Hello, traveler!
+
+I wish our journeys the best fortune. Humans will need it. 
